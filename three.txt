@@ -1,0 +1,2 @@
+c=a+b
+the sum of a and b is	 16
